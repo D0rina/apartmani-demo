@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* Fontovi - učitavaju se u app/[lang]/layout.js */
+@theme inline {
+  --font-serif: var(--font-display), Georgia, serif;
+  --font-sans: var(--font-body), system-ui, sans-serif;
+}
+
+/* Boje objekta - za novog klijenta promijeni ove vrijednosti */
+@theme {
+  --color-sea: #1f5f7a;
+  --color-sea-dark: #164557;
+  --color-sand: #f6f1e7;
+  --color-sun: #e0a458;
+}
+
+html {
+  scroll-behavior: smooth;
+}
