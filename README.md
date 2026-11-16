@@ -6,7 +6,7 @@ availability and let guests send booking inquiries directly — no platform comm
 🇭🇷 *Predložak web stranice za privatne iznajmljivače: prikaz apartmana, kalendar dostupnosti
 i izravni upiti za rezervaciju, na hrvatskom, engleskom i njemačkom.*
 
-🌐 **Live demo:** *(add link after deploying)* — demo property "Apartmani Lumen" is fictional.
+🌐 **Live demo:** [apartmani-demo.vercel.app](https://apartmani-demo.vercel.app) — demo property "Apartmani Lumen" is fictional.
 
 ## Features
 
